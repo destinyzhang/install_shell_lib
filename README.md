@@ -1,2 +1,2 @@
 # install_shell_lib
-安装文件脚步
+安装文件脚本
